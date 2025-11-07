@@ -26,6 +26,7 @@ Connect with me! Let's collaborate on high-impact projects.
 </div>
 
 # 💻 Skills in Development
+https://simpleicons.org/icons/python.svg
 
 
 
