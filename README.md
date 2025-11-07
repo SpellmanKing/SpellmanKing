@@ -25,7 +25,7 @@ Connect with me! Let's collaborate on high-impact projects.
 <a href="https://www.linkedin.com/in/c-spellmank" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-#💻 Skills in Development
+# 💻 Skills in Development
 <div>
   <a href="https://github.com/SpellmanKing">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpellmanKing&layout=compact&langs_count=7&theme=dracula"/>
