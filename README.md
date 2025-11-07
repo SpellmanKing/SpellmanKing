@@ -4,8 +4,8 @@
 # 🤓 Contatos 
 <div>
   
-  <a href="https://instagram.com/c_spellmank" target="_blank"><img src="https://img.shields.io/badge/Instagram-X23F405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="https://www.linkedin.com/in/c-spellmank" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-X238077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://instagram.com/c_spellmank" target="_blank"><img src="https://img.shields.io/badge/Instagram-X23F405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/c-spellmank" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-X238077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" /></a>
 </div>****
 
 
