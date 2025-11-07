@@ -26,6 +26,10 @@ Connect with me! Let's collaborate on high-impact projects.
 </div>
 
 # 💻 Skills in Development
+
+
+
+# 👨‍💻 GitHub Stats
 <div>
   <a href="https://github.com/SpellmanKing">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpellmanKing&layout=compact&langs_count=7&theme=dracula"/>
