@@ -252,13 +252,17 @@ JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&log
 
 <div align="center">
 
-| 📈 Activity Stats | 🔥 Contribution Streak |
-|------------------|------------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=SpellmanKing&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00D9FF&border_radius=10) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SpellmanKing&theme=radical&border=FF00FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF) |
-
-| 💻 Top Languages |
-|------------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpellmanKing&layout=compact&langs_count=8&theme=radical&border_color=FF00FF&border_radius=10) |
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SpellmanKing&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00D9FF&border_radius=10" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SpellmanKing&theme=radical&border=FF00FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF" /></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpellmanKing&layout=compact&langs_count=8&theme=radical&border_color=FF00FF&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
