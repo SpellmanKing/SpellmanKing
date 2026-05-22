@@ -160,7 +160,7 @@ FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fast
 
 **Description:** Automated system for managing renovation projects with sustainable practices.
 
-<a href="https://github.com/SpellmanKing">
+<a href="https://github.com/SpellmanKing/Avaliador-Filmes-e-Sentimentos.git">
   <img src="https://img.shields.io/badge/View%20Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -194,7 +194,7 @@ AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=flat-square&logo=tensor
 
 **Description:** Integration of LLMs for natural language processing tasks.
 
-<a href="https://github.com/SpellmanKing">
+<a href="https://github.com/SpellmanKing/Back_Starfit.git">
   <img src="https://img.shields.io/badge/View%20Code-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -228,7 +228,7 @@ JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&log
 
 **Description:** Personal portfolio website showcasing projects and skills.
 
-<a href="https://github.com/SpellmanKing">
+<a href="https://github.com/SpellmanKing/Infra_AI.git">
   <img src="https://img.shields.io/badge/View%20Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -287,7 +287,7 @@ JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&log
 <a href="https://instagram.com/c_spellmank" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
 </a>
-<a href="mailto:calebe.ferreira@example.com" target="_blank">
+<a href="mailto:calebefcar1306@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
 </a>
 
