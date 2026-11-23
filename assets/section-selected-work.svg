@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Selected work">
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#1E2335" stroke-width="0.6" opacity="0.55"/>
+  </pattern>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.6" stop-color="#A78BFA"/><stop offset="1" stop-color="#F5B942"/>
+  </linearGradient></defs>
+<text x="4" y="44" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15" fill="#F5B942">03</text>
+<text x="44" y="46" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#8B93AE">Selected work</text>
+<text x="1196" y="45" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13" fill="#8B93AE" text-anchor="end">git log --featured</text>
+<rect x="4" y="62" width="1192" height="1" fill="#8B93AE" opacity="0.35"/>
+<rect x="4" y="61" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

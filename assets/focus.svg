@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1190" height="230" viewBox="0 0 1190 230" role="img" aria-label="Focus areas: multi-agent AI systems, LLM applications, back-end engineering, full-stack products">
+<g transform="translate(0 0)">
+      <rect x="0.5" y="0.5" width="588" height="108" rx="14" fill="#0A0C14" stroke="#1E2335"/>
+      <text x="28" y="62" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="18" fill="#A78BFA">01</text>
+      <text x="76" y="48" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700" fill="#E6E8F2">Multi-agent AI systems</text>
+      <text x="76" y="80" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#9AA3BF">Deliberative pipelines and decision engines (COGNIS)</text>
+    </g><g transform="translate(600 0)">
+      <rect x="0.5" y="0.5" width="588" height="108" rx="14" fill="#0A0C14" stroke="#1E2335"/>
+      <text x="28" y="62" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="18" fill="#F5B942">02</text>
+      <text x="76" y="48" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700" fill="#E6E8F2">LLM applications</text>
+      <text x="76" y="80" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#9AA3BF">Hugging Face models applied to real problems</text>
+    </g><g transform="translate(0 120)">
+      <rect x="0.5" y="0.5" width="588" height="108" rx="14" fill="#0A0C14" stroke="#1E2335"/>
+      <text x="28" y="62" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="18" fill="#5EEAD4">03</text>
+      <text x="76" y="48" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700" fill="#E6E8F2">Back-end engineering</text>
+      <text x="76" y="80" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#9AA3BF">FastAPI, Django and Spring Boot APIs</text>
+    </g><g transform="translate(600 120)">
+      <rect x="0.5" y="0.5" width="588" height="108" rx="14" fill="#0A0C14" stroke="#1E2335"/>
+      <text x="28" y="62" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="18" fill="#F472B6">04</text>
+      <text x="76" y="48" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700" fill="#E6E8F2">Full-stack products</text>
+      <text x="76" y="80" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#9AA3BF">React + TypeScript interfaces on top of solid data</text>
+    </g>
+</svg>

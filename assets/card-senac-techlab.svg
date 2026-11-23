@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="256" viewBox="0 0 580 256" role="img" aria-label="Senac TechLab — IT asset management dashboard for 86 lab computers. Async FastAPI + SQLAlchemy 2.0 back end with a React and TypeScript front end.">
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#1E2335" stroke-width="0.6" opacity="0.55"/>
+  </pattern>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.6" stop-color="#A78BFA"/><stop offset="1" stop-color="#F5B942"/>
+  </linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#5EEAD4" stop-opacity="0.18"/><stop offset="0.5" stop-color="#5EEAD4" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>@keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } } .dot { animation: pulse 2.4s ease-in-out infinite }</style>
+<rect x="0.5" y="0.5" width="579" height="255" rx="16" fill="#0A0C14" stroke="#1E2335"/>
+<rect x="0.5" y="0.5" width="579" height="255" rx="16" fill="url(#sheen)"/>
+<rect x="32" y="0" width="64" height="3" rx="1.5" fill="#5EEAD4"/>
+<text x="32" y="46" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13" letter-spacing="2" fill="#5EEAD4">FULL-STACK · DASHBOARD</text>
+<circle class="dot" cx="544" cy="42" r="4" fill="#5EEAD4"/>
+<text x="32" y="88" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="700" fill="#E6E8F2">Senac TechLab</text>
+<text x="32" y="126" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#9AA3BF">IT asset management dashboard for 86 lab computers.</text><text x="32" y="150" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#9AA3BF">Async FastAPI + SQLAlchemy 2.0 back end with a React</text><text x="32" y="174" font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#9AA3BF">and TypeScript front end.</text>
+<rect x="32" y="200" width="82.80000000000001" height="28" rx="14" fill="#10131F" stroke="#1E2335"/><text x="73.4" y="218" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.5" fill="#E6E8F2" text-anchor="middle">FastAPI</text><rect x="122.80000000000001" y="200" width="66" height="28" rx="14" fill="#10131F" stroke="#1E2335"/><text x="155.8" y="218" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.5" fill="#E6E8F2" text-anchor="middle">React</text><rect x="196.8" y="200" width="108" height="28" rx="14" fill="#10131F" stroke="#1E2335"/><text x="250.8" y="218" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.5" fill="#E6E8F2" text-anchor="middle">TypeScript</text><rect x="312.8" y="200" width="49.2" height="28" rx="14" fill="#10131F" stroke="#1E2335"/><text x="337.40000000000003" y="218" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.5" fill="#E6E8F2" text-anchor="middle">SQL</text>
+<text x="548" y="88" font-family="'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="20" fill="#5B6380" text-anchor="end">↗</text>
+</svg>
