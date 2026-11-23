@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Profile activity
 
 on:
   schedule:
@@ -15,6 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate activity stats
+        run: node .github/scripts/stats.mjs "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:

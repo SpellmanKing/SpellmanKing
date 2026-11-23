@@ -42,6 +42,9 @@ As part of Unieuro's **Scientific Initiation** program, I research **Large Langu
 
 <img src="./assets/section-activity.svg" width="100%" alt="04 — Activity" />
 
+<img src="https://raw.githubusercontent.com/SpellmanKing/SpellmanKing/output/stats.svg" width="100%" alt="GitHub activity: contributions, streaks, commits, pull requests, repositories, monthly contributions and top languages" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpellmanKing/SpellmanKing/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpellmanKing/SpellmanKing/output/snake.svg" />
